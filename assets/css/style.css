@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Raleway", sans-serif;
+}
+.favicon {
+  width: 1.8rem;
+  margin-bottom: 0.6rem;
+}
+header img {
+  filter: brightness(0.9);
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+  max-height: 95vh;
+  height: auto;
+}
+.card img {
+  height: 10rem;
+}
+footer i {
+  font-size: 2rem;
+  padding-right: 1rem;
+}
+nav {
+}
