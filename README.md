@@ -38,17 +38,17 @@ El repositorio está organizado de la siguiente manera:
 - `assets/js/index.js`: archivo JavaScript que contiene las operaciones realizadas en la página.
 - `README.md`: archivo que describe el contenido del repositorio.
 
-### **🧩 Componentes utilizados**
+## 🧩 Componentes utilizados
 
 - [Navbar de Bootstrap 5.3](https://getbootstrap.com/docs/5.3/components/navbar/)
 - [Carousel de Bootstrap 5.3](https://getbootstrap.com/docs/5.3/components/carousel/)
 - [Cards de Bootstrap 5.3](https://getbootstrap.com/docs/5.3/components/card/)
 - [Tooltip de Bootstrap 5.3](https://getbootstrap.com/docs/5.3/components/tooltips/)
 
-### **🔤 Fuente utilizada**
+## 🔤 Fuente utilizada
 
 - [Font Raleway de Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale)
 
-### **🧊 Iconos utilizados**
+## 🧊 Iconos utilizados
 
 - [Font Awesome 6.4](https://fontawesome.com/icons)
